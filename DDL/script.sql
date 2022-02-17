@@ -27,7 +27,7 @@ CREATE TABLE `platziblog`.`posts` (
   `titulo` VARCHAR(130) NOT NULL,
   `fecha_publicacion` DATETIME NULL,
   `contenido` TEXT NOT NULL,
-  `status` CHAR(8) NULL DEFAULT '¨Activo¨',
+  `estatus` CHAR(8) NULL DEFAULT '¨Activo¨',
   `usuario_id` INT NOT NULL,
   `categoria_id` INT NOT NULL,
   PRIMARY KEY (`id`)
