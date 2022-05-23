@@ -20,4 +20,4 @@ Material realizado en el curso de "Fundamentos De Bases De Datos" de [Platzi](ht
 
 ## Certificación 🎓
 
-![Certificación](https://github.com/JuamBer/Platzi-CursoFundamentosBasesDatos/blob/master/img-licencia/diploma-db.jpg)
+![Certificación](https://github.com/JuamBer/Platzi-CursoFundamentosBasesDeDatos/blob/master/img-licencia/diploma-db.jpg)
